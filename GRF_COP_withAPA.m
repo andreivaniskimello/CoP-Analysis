@@ -22,7 +22,7 @@
  
 %   **APA START**
 %   Mean +- k*SD from COP position curve (k is a constant value)
-%   COP velocity (x or y) above 1.5 mm/10 ms (Plate et al. (2016, DOI: 10.1007/s00221-016-4665-x)
+%   COP velocity (x or y) above 0.15 m/s (Plate et al. (2016, DOI: 10.1007/s00221-016-4665-x)
  
 %  **APA END**
 %  End from weight transfer, i.e., unipedal stance stabilization.
